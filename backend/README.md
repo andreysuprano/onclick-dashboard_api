@@ -9,18 +9,18 @@ Steps to run this project:
 4. Run `yarn dev` command or `npm dev`
 
 ## Steps para gestão básica de site
-[ ] Criar endpoint de Cadastro de Clientes 
-[ ] Criar endpoint de Cadastro de Sites
-[ ] Criar endpoint de Cadastro de Postagens para o Blog
-[ ] Criar endpoint de Cadastro de dados do Analytics
+- [ ] Criar endpoint de Cadastro de Clientes 
+- [ ] Criar endpoint de Cadastro de Sites
+- [ ] Criar endpoint de Cadastro de Postagens para o Blog
+- [ ] Criar endpoint de Cadastro de dados do Analytics
 
 ## Steps Geração de Relatórios para o Site
-[ ] Criar endpoints para consumir API do Google Analytics
+- [ ] Criar endpoints para consumir API do Google Analytics
 
 ## Steps Aprovação e não aprovação de publicações
-[ ] Criar endpoints para inclusão de nova publicação a ser aprovada
-[ ] Criar endpoints para inclusão de texto dos dados da publicação
-[ ] Criar endpoints para inclusão de imagem destacada da postagem
+- [ ] Criar endpoints para inclusão de nova publicação a ser aprovada
+- [ ] Criar endpoints para inclusão de texto dos dados da publicação
+- [ ] Criar endpoints para inclusão de imagem destacada da postagem
 
 # Rodando banco de dados com Docker
 
